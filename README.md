@@ -7,7 +7,7 @@ This is a demo application intended for use with my blog post on [Creating Backe
 Or follow these steps, after installing the [Heroku Toolbelt](https://toolbelt.heroku.com/), to deploy from the CLI:
 
 ```sh-session
-$ git clone https://github.com/kissaten/spring-boot-android-service
+$ git clone https://github.com/jkutner/spring-boot-android-service
 $ cd spring-boot-android-service
 $ heroku create
 $ git push heroku master
